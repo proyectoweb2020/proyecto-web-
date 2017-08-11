@@ -1,2 +1,16 @@
 # proyecto-web-
-pruebas estudio 
+[pruebas estudio]
+
+[Instalación]
+- Requisitos
+- Versión
+- Encargados del proyecto
+
+
+[Uso]
+
+[Documentación]
+
+[Roadmap]
+
+[licencia]
